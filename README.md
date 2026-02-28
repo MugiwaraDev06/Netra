@@ -1,4 +1,4 @@
-# 👁️ Netra (नेत्र) 
+# 👁️ Netra  
 ### *Nothing Escapes the Eye: Pre-Disbursement Fraud Intelligence for Multi-Tier SCF*
 
 [![Project Status: Active](https://img.shields.io/badge/Project%20Status-Hackathon%20Ready-brightgreen)](https://github.com/your-repo/netra)
